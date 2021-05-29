@@ -5,7 +5,7 @@ import requests
 
 
 BAUD = 9600
-URL = ""    #need URL
+URL = "https://test.sungjun.site/post"    #need URL
 item = "starbucks"
 count = -1
 
