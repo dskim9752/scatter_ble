@@ -7,7 +7,7 @@ import requests
 BAUD = 9600
 URL = "https://test.sungjun.site/post"    #need URL
 item = "starbucks"
-count = -1
+count = 0
 
 
 def serial_ports():
@@ -68,7 +68,7 @@ while True:
             print('===========    send')
         except Exception as e:
             print("===========    fail : ",e)
-        count = -1
+        count = 0
 s.close()
 
 
