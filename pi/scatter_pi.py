@@ -63,7 +63,6 @@ while True:
         }
         #send to server
         try:
-            #response = requests.get(URL,params = datas)
             response = requests.post(URL, data = datas)
             print('===========    send')
         except Exception as e:

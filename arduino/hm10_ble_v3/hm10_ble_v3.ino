@@ -13,8 +13,6 @@ void initAT(){    //초기 설정
   delay(1000); 
   BTSerial.println("AT+ROLE1");    // set Master(Central) mode
   delay(1000);
-  //BTSerial.println("AT+FILT0");  // set find all BLE modules
-  //delay(500);
   BTSerial.println("AT+SHOW1");    // show name
   delay(1500);
   BTSerial.println("AT+IMME1");    // set IMME mode
@@ -51,13 +49,3 @@ void loop(){
   if (Serial.available())    // Read from Serial Monitor and send to HM-10
     BTSerial.write(Serial.read());
 }
-
-
-
-/*
- if (millis() - timestamp > 5000) { //run every 5 seconds
-    BTSerial.println("AT-DISC?"); 
-     //Serial.println();
-    timestamp = millis();
-  }
- */
