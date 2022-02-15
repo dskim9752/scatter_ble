@@ -6,7 +6,7 @@ import requests
 
 BAUD = 9600
 URL = ""    #need URL
-item = "starbucks"
+item = ""    #가게 
 count = 0
 
 
