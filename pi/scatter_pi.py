@@ -6,7 +6,7 @@ import requests
 
 BAUD = 9600
 URL = ""    #need URL
-item = ""    #가게 
+item = ""    #가게 정보
 count = 0
 
 
