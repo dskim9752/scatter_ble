@@ -28,7 +28,7 @@
 
 <img src="https://user-images.githubusercontent.com/6614912/154029043-f45885c5-4206-4d0f-9db1-714e7cc488f3.png"  width="500"/>
 
-#### 웹서버에 해당 장치의 가게 정보와 인원 수를 전송
+#### 웹서버에 해당 장치가 설치되어있는(등록된) 가게의 정보와 입장한 인원 수를 전송
 ![제목 없음6](https://user-images.githubusercontent.com/6614912/154033946-096faf98-cf24-4496-869f-b9e18f95685f.png)
 
 <!-- <img src="https://user-images.githubusercontent.com/6614912/154029045-842f09fd-079d-4d03-810b-151fa0230fbe.png"  width="500"/> -->
