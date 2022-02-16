@@ -16,7 +16,7 @@
 #### Ios: swift  :  https://github.com/gudwnsepdy/Scatter_Android
 
 
-<u>하드웨어: Raspbian(라즈베리파이): python , Arduino Uno </u> <- 현 Repository
+<u>하드웨어: Raspbian(라즈베리파이): python , Arduino Uno , hm-10 </u> <- 현 Repository
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/6614912/154029037-4a8e896b-70a1-45d2-87c6-de6374bab47e.png"  width="400" height="320"/>
