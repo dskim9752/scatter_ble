@@ -23,7 +23,7 @@
 <img src="https://user-images.githubusercontent.com/6614912/154029039-a789bf40-4c51-462e-8f7c-ef04a52b2ad8.png"  width="400" height="320"/>
 </div>
 
-#### 라즈베리파이와 아두이노, hm-10 Ble 모듈을 기반으로 작동
+#### 라즈베리파이와 아두이노, hm-10 Ble 모듈을 기반으로 작동, 케이스는 직접 모델링 후 3d 프린터로 출력
 #### Ble Advertising을 통해 주기적으로 주변 디바이스를 스캔, scatter 명칭으로 한정해서 인식한 인원을 계산
 
 <p align="center"><img src="https://user-images.githubusercontent.com/6614912/154029043-f45885c5-4206-4d0f-9db1-714e7cc488f3.png"  width="500"/></p>
