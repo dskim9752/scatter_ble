@@ -1,7 +1,8 @@
 # Scatter-ble 장치
 ## 2021 단국대 실무중심산학협력프로젝트
-
-![그림1](https://user-images.githubusercontent.com/6614912/156499414-d7d279e5-8749-46e8-a35b-c56ed4e4b632.jpg)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/6614912/156499414-d7d279e5-8749-46e8-a35b-c56ed4e4b632.jpg"/>
+</div>
 
 ## 개요
 
